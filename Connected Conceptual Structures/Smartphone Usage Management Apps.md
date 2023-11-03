@@ -1,0 +1,18 @@
+**Introduction**
+Time management in today's technological climate is something that is widely focused on. In terms of productivity, smartphones can be viewed as a double-edged sword. While there are a plethora of mobile apps and tools that are marketed to boost productivity, excessive use or reliance on smartphones and technology can give rise to a handful of problems ranging from unproductivity to addiction and dependency, with detrimental effects to people's social interactions, mental health, and work, as well as their spatial awareness [1]. As a result, there has been an increase in systems designed to help users manage and regulate their own technology usage-- these systems are sometimes referred to as digital self-control tools (DSCT) [2]
+
+**Smartphone Usage Management Systems**
+There are many types of ways that smartphone apps and systems can try and force a user to regulate their usage. Some apps, like AppDetox, will set screen time limits or enforce limitations on certain apps to reduce smartphone usage altogether. Others, such as RescueTime, allow users to set goals that they want to meet regarding limiting smartphone usage. There are also apps like Forest that try to motivate users to use their phones less by gamifying the goal-- Forest in particular has users plant a virtual tree that will die if they leave the Forest app. [1] 
+
+Other strategies for mitigating smartphone usage include switching the display to greyscale to reduce it's ability to distract, disabling notifications, redirecting users to something more productive, or visualizing and displaying how long a user has been distracted for [2]. 
+
+**DSCTs and Cognitive Function**
+The ways that we interact with smartphones and apps can be heavily influenced by things that appeal to certain cognitive biases. Marketing tactics aimed at tricking people into making purchases or signing up for things, or design decisions that encourage more usage of smartphones or social media apps are both things that are very prevalent today [2]. Originally proposed by Brignull in 2010 [3], they are referred to by Roffarello as 'dark patterns'. Those systems and tactics fall under the scope of computing for cognitive augmentation, but so do the systems that aim to stop them. Digital self-control tools can allow users to mitigate the sometimes unperceived effects of dark patterns.
+
+**Conclusion**
+Although the effectiveness of certain methods of mitigating smartphone usage can be called into question, there is no denying that overusing technology has an impact on cognitive function [1], sometimes without the knowledge of the user. As such, attempts made to reduce the usage of smartphones and technology will have an inverse effect. Managing smartphone usage can increase people's ability to perceive their own surroundings as well as increasing productivity, mental wellbeing, and cognitive ability [2].
+
+**References**
+[1] Rahmillah F, Tariq A, King M, Oviedo-Trespalacios O. Evaluating the Effectiveness of Apps Designed to Reduce Mobile Phone Use and Prevent Maladaptive Mobile Phone Use: Multimethod Study. J Med Internet Res 2023;25:e42541. URL: https://www.jmir.org/2023/1/e42541. DOI: 10.2196/42541
+[2] Alberto Monge Roffarello and Luigi De Russis. 2023. Achieving Digital Wellbeing Through Digital Self-control Tools: A Systematic Review and Meta-analysis. ACM Trans. Comput.-Hum. Interact. 30, 4, Article 53 (August 2023), 66 pages. https://doi.org/10.1145/3571810
+[3] Brignull Harry. 2010. Dark Patterns. (2010). Retrieved November 2, 2023 from [https://darkpatterns.org/](https://darkpatterns.org/).
